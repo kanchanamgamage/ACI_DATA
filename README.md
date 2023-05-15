@@ -1,4 +1,4 @@
-Extracting Data from APIC GUI
+#Extracting Data from APIC GUI
 
 Extract Data from APIC GUI.
 
@@ -69,6 +69,7 @@ Step 5
 Now you have the data you were looking in very structured way.
 you can write small python code to exctrat data into csv format.
 
+![image](https://github.com/kanchanamgamage/ACI_DATA/assets/45864789/74b57ba6-dc9c-472d-a661-807e437957b8)
 
 
 
