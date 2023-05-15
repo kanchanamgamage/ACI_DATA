@@ -54,10 +54,21 @@ Step 4
 
 Excecute moquery with identified class
 
+figure 4.1
 ![image](https://github.com/kanchanamgamage/ACI_DATA/assets/45864789/522d0792-441f-46e6-915e-928b29121414)
 
+BASH is very powerfull and it has own table output, if your data set is simple try below command to get the table view
 
-If yo
+Figure 4.2
+![image](https://github.com/kanchanamgamage/ACI_DATA/assets/45864789/bb39243c-bd41-41d2-9ff5-61559b3759ad)
+
+
+
+Step 5
+
+Now you have the data you were looking in very structured way.
+you can write small python code to exctrat data into csv format.
+
 
 
 
