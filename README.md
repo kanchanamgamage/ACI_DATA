@@ -1,6 +1,5 @@
 # Extracting Data from APIC GUI
 
-Extract Data from APIC GUI.
 
 Sometimes we are facing dificulties to extract data from APIC GUI eventhough all the details are visible.
 Example, 
