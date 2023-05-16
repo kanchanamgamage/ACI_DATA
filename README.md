@@ -14,7 +14,7 @@ Identyfy the correct moquery.
 To identify the correct class you can use Opject Store inbiuld function.
 first locate the data you want to extract from GUI
 
-Figure 1.1
+### Figure 1.1
 ![image](https://github.com/kanchanamgamage/ACI_DATA/assets/45864789/859c5432-d4fa-4f43-ac07-51962a97e299)
 
 try to enable Open in Object Store Browser Option.
